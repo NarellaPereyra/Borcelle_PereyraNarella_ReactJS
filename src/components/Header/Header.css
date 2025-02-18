@@ -1,0 +1,46 @@
+header {
+  background-color: #ad5454;
+  padding: 15px 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header img {
+  width: 80px;
+  border-radius: 50%;
+}
+
+header ul {
+  display: flex;
+  gap: 20px;
+}
+
+header ul li a {
+  background-color: #f590898f;
+  color: #ebd4eb;
+  padding: 15px;
+  width: 100px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 15px;
+  transition: scale 0.3s;
+  text-decoration: none;
+}
+
+.btn-header {
+  background-color: #f590898f;
+  color: #ebd4eb;
+  padding: 15px;
+  width: 105px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 15px;
+  transition: scale 0.3s;
+  text-decoration: none;
+  border: none;
+}
+
+header ul li a:hover {
+  scale: 1.1;
+}

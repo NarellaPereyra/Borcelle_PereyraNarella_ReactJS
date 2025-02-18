@@ -1,0 +1,84 @@
+.home-container {
+  color: #ad5454;
+  text-align: center;
+  padding: 1rem;
+}
+
+.nombre-pagina {
+  font-size: 2.5rem;
+  font-family: italic;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+  color: #ad5454;
+}
+
+.welcome-section {
+  margin-bottom: 2rem;
+}
+
+.welcome-title {
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
+  color: #ad5454;
+}
+
+.welcome-text {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: #333;
+}
+
+.cta-section {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  background-color: #f59089;
+  color: white;
+  border-radius: 8px;
+}
+
+.cta-title {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+.cta-text {
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+}
+
+.cta-button {
+  background-color: #ad5454;
+  color: white;
+  border: none;
+  padding: 0.8rem 1.5rem;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.cta-button:hover {
+  background-color: #801f1f;
+}
+
+.cta-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.cta-section {
+  flex: 1;
+  padding: 20px;
+}
+
+.img-tienda {
+  display: flex;
+  justify-content: space-between;
+}
+
+.img-size {
+  width: 570px;
+  border: 15px double #f59089;
+}
