@@ -74,7 +74,7 @@ input:focus {
   background-color: #801f1f;
 }
 
-.success-message {
+.success-message, .error-message {
   font-family: 'Roboto', sans-serif;
   border-radius: 8px;
   padding: 8px 10px;
