@@ -24,7 +24,6 @@ Borcelle es una tienda de moda en línea con un diseño moderno y elegante. Este
    - Crear un proyecto en Firebase
    - Obtener las credenciales de configuración
    - Crear un archivo `.env` y agregar las claves (los nombres estan disponibles en `.env.example`)
-     ```
 5. Iniciar el proyecto:
    ```sh
    npm start
